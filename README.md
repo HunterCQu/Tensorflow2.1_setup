@@ -2,7 +2,7 @@
 
 ## Overview
 ！！！本教程基于Windows10 x86 系统，在Anaconda虚拟环境下搭建Tensorflow2.1！！！
-如果你有其他需求，可以自己百度进行更改，因为版本依赖很强不能完全涵盖，还望海涵~
+如果你有其他需求，可以去底部找参照表去下载对应的版本，切记要版本对应
 
 - 链接里放着我们需要用到所有的东西
 https://pan.baidu.com/s/11KojcB2h_3oE5JdoU8UCzw
