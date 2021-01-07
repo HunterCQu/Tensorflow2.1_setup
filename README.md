@@ -146,5 +146,6 @@ Tensorflow和Cuda及CUDNN存在很强的关联关系，所以版本依赖也很�
 -  Tensorflow官网Windows搭建的一些建议https://www.tensorflow.org/install/source_windows
 -  Cuda下载地址https://developer.nvidia.com/cuda-toolkit-archive
 -  CUDNN下载地址https://developer.nvidia.com/rdp/cudnn-archive
+![](./pic/1.png)
 
       
