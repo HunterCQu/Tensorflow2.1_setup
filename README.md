@@ -11,9 +11,17 @@ https://pan.baidu.com/s/11KojcB2h_3oE5JdoU8UCzw
 -  1.安装PyCharm
       首先在网盘的文件中找到Pycharm的安装包（如需其他版本也可去官网https://www.jetbrains.com/pycharm/自行下载）
       选择安装目录，个人建议是D盘
+      
+      
       ![](./pic/pycharm.png)
+      
+      
       这里这两个选项记得勾选，其他两个可选或不选（个人建议全选）
+      
+      
       ![](./pic/pycharm3 (2).png)
+      
+      
       然后等待就行了
 -  2.安装Anaconda
       找到Anaconda安装文件
