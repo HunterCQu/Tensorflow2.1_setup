@@ -42,7 +42,7 @@ https://pan.baidu.com/s/11KojcB2h_3oE5JdoU8UCzw
       等待安装结束就行了，安装结束后，你的开始菜单里应该是如图所示才对
       
       
-      ![image](https://raw.githubusercontent.com/HunterCQu/Tensorflow2.1_setup/main/pic/pic/show.png)
+      ![image](https://raw.githubusercontent.com/HunterCQu/Tensorflow2.1_setup/main/pic/show.png)
       
       
       配置环境变量，右击我的电脑-->属性-->高级系统设置-->高级-->环境变量-->系统变量，找到Path进行编辑新建两个如图所示的路径（这是我的路径，你自己需要对应你自己的Anaconda安装路径）
@@ -61,7 +61,7 @@ https://pan.baidu.com/s/11KojcB2h_3oE5JdoU8UCzw
       打开我们安装好的PyCharm，新建一个工程
       
       
-      ![image](https://raw.githubusercontent.com/HunterCQu/Tensorflow2.1_setup/main/pic/pic/虚拟环境1.png)
+      ![image](https://raw.githubusercontent.com/HunterCQu/Tensorflow2.1_setup/main/pic/虚拟环境1.png)
       
       
       红框是你期望的项目文件夹存放位置（这里我放桌面做演示），最关键的是黄框
