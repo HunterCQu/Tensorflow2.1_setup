@@ -13,7 +13,7 @@ https://pan.baidu.com/s/11KojcB2h_3oE5JdoU8UCzw
       选择安装目录，个人建议是D盘
       
       
-      ![image](http://github.com/HunterCQu/Tensorflow2.1_setup/pic/pycharm.png)
+      ![image](./pic/pycharm.png)
       
       
       这里这两个选项记得勾选，其他两个可选或不选（个人建议全选）
