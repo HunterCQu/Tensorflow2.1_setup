@@ -11,16 +11,23 @@ https://pan.baidu.com/s/11KojcB2h_3oE5JdoU8UCzw
 -  1.安装PyCharm
       首先在网盘的文件中找到Pycharm的安装包（如需其他版本也可去官网https://www.jetbrains.com/pycharm/自行下载）
       选择安装目录，个人建议是D盘
+      ![](./pic/pycharm.png)
       这里这两个选项记得勾选，其他两个可选或不选（个人建议全选）
+      ![](./pic/pycharm3 (2).png)
       然后等待就行了
 -  2.安装Anaconda
       找到Anaconda安装文件
       选择装给谁，我们按推荐来只给当前用户装就行
       安装目录，再次推荐D盘
+      ![](./pic/anaconda.png)
       最关键的来了，只选第二个，环境变量我们之后自己手动配置就好
+      ![](./pic/anaconda1.png)
       等待安装结束就行了，安装结束后，你的开始菜单里应该是如图所示才对
+      ![](./pic/home menu.png)
       配置环境变量，右击我的电脑-->属性-->高级系统设置-->高级-->环境变量-->系统变量，找到Path进行编辑新建两个如图所示的路径（这是我的路径，你自己需要对应你自己的Anaconda安装路径）
+      ![](./pic/anaconda环境.png)
       测试环境变量是否配置成功在Dos窗口键入conda --version， 如图显示则配置成功
+      ![](./pic/ancondados.png)
 -  3.在Anaconda中新建虚拟环境
       打开我们安装好的PyCharm，新建一个工程，红框是你期望的项目文件夹存放位置（这里我放桌面做演示），最关键的是黄框，选择到你的Anaconda文件夹下的python.exe如图是我的路径，创建就Ok了
       我们进来了，哈哈哈，别急！！要等所有的包加载完再操作，等红框里的内容消失就可以了
