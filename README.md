@@ -19,7 +19,8 @@ https://pan.baidu.com/s/11KojcB2h_3oE5JdoU8UCzw
       这里这两个选项记得勾选，其他两个可选或不选（个人建议全选）
       
       
-      ![](./pic/pycharm3 (2).png)
+      ![image](https://raw.githubusercontent.com/HunterCQu/Tensorflow2.1_setup/main/pic/pycharm3%20(2).png)
+      
       
       
       然后等待就行了
