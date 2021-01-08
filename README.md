@@ -88,7 +88,7 @@ https://pan.baidu.com/s/11KojcB2h_3oE5JdoU8UCzw
       ![image](https://raw.githubusercontent.com/HunterCQu/Tensorflow2.1_setup/main/pic/虚拟环境5.png)
       
       
-      创建完成，我们现在需要激活一下这个环境，键入conda activate tf，再次键入conda insall tensorflow-gpu==2.1.0（你的电脑支持GPU训练的话）或者conda insall tensorflow==2.1.0(CPU版)
+      创建完成，我们现在需要激活一下这个环境，键入conda activate tf，再次键入pip insall tensorflow-gpu==2.1.0（你的电脑支持GPU训练的话）或者pip insall tensorflow==2.1.0(CPU版)
       
       
       ![image](https://raw.githubusercontent.com/HunterCQu/Tensorflow2.1_setup/main/pic/虚拟环境6.png)
