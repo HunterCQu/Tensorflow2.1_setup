@@ -108,7 +108,7 @@ https://pan.baidu.com/s/11KojcB2h_3oE5JdoU8UCzw
       ![image](https://raw.githubusercontent.com/HunterCQu/Tensorflow2.1_setup/main/pic/cuda安装选项.png)
       
       
-      选择路径，三个目录的路径最好一致，方便之后配置环境变量，放在默认的系统下是比较保险的，我自己是放在其他盘啦，这个不太重要看个人喜好
+      选择路径，三个目录的路径最好一致,不能与刚才的临时文件夹一个路径，方便之后配置环境变量，放在默认的系统下是比较保险的，我自己是放在其他盘啦，这个不太重要看个人喜好
       
       
       ![image](https://raw.githubusercontent.com/HunterCQu/Tensorflow2.1_setup/main/pic/cuda安装位置.png)
